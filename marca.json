@@ -1,0 +1,181 @@
+{
+  "versao": "2026.08.20",
+  "atualizado_em": "2026-08-20",
+  "fonte": "brandbook-HQ.pdf (2021), 33 paginas, mais a pasta Ativos do Drive",
+  "origem": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/marca.json",
+  "procedencia": {
+    "BB": "Esta no brandbook oficial. Nao se discute",
+    "ASSET": "Vem de arquivo oficial. Use o arquivo, nao recrie",
+    "CONV": "Convencao interna, sem lastro documental. Pode mudar"
+  },
+
+  "marca": {
+    "nome": "Simplex Analytics",
+    "wordmark": "simplex.",
+    "descritor": { "valor": "Martech Company", "procedencia": "BB" },
+    "tagline": { "valor": "Complexity Made Simple", "procedencia": "CONV" },
+    "arquetipo": "O Criador",
+    "fundacao": 2017,
+    "dominios": ["simplex.live", "simplexanalytics.com.br"],
+    "assinatura_deck": { "valor": "@simplex.live", "procedencia": "CONV" },
+    "regra_gerativa": "Tudo descende do icosaedro. O simbolo e o icosaedro em outline; o hexagono e a silhueta dele, e por isso e o container universal; cada sub-marca e o hexagono mais um glifo proprio; o pattern e o facetamento dele aberto no plano; a marcacao de pagina e ele em miniatura. Asset criado fora dessa regra quebra a familia."
+  },
+
+  "submarcas": [
+    { "nome": "indexa.",     "glifo": "X inscrito, diagonais de vertice a vertice", "logo_oficial": true,  "vendavel": true },
+    { "nome": "cerebro.",    "glifo": "Cubo inscrito com linhas radiais aos vertices", "logo_oficial": true,  "vendavel": false },
+    { "nome": "sir cache.",  "glifo": "Cubo isometrico de tres faces", "logo_oficial": false, "vendavel": true },
+    { "nome": "distance.",   "glifo": "Duas verticais paralelas dividindo o hexagono", "logo_oficial": false, "vendavel": false },
+    { "nome": "simplex.news","glifo": "Hexagono outline com icone tematico dentro", "logo_oficial": true,  "vendavel": false, "cor": "#2D90F6" }
+  ],
+
+  "cor": {
+    "preto":        { "hex": "#231F20", "rgb": [35, 31, 32],    "cmyk": [70, 68, 64, 76], "pantone": "Neutral Black C", "papel": "Texto, fundos institucionais e de campanha", "procedencia": "BB" },
+    "branco":       { "hex": "#FFFFFF", "rgb": [255, 255, 255], "cmyk": [0, 0, 0, 0],     "pantone": "656 C",           "papel": "Fundos claros, texto invertido", "procedencia": "BB" },
+    "azul_profundo":{ "hex": "#0433F6", "rgb": [4, 51, 246],    "cmyk": [87, 75, 0, 0],   "pantone": "2132 C",          "papel": "Degrade, acento grafico, fundo de slide de secao", "procedencia": "BB" },
+    "azul_escuro":  { "hex": "#174277", "rgb": [23, 66, 119],   "cmyk": [100, 82, 27, 12],"pantone": "7694 C",          "papel": "Fundo secundario, barra, rodape", "procedencia": "BB" },
+    "azul_principal":{"hex": "#2D90F6", "rgb": [45, 144, 246],  "cmyk": [71, 39, 0, 0],   "pantone": "279 C",           "papel": "Destaque, titulo, link, subtitulo", "procedencia": "BB" },
+    "laranja":      { "hex": "#FF6C00", "rgb": [255, 108, 0],   "cmyk": [0, 71, 100, 0],  "pantone": "1585",            "papel": "CTA, botao, alerta, acao. EXCLUSIVAMENTE", "procedencia": "BB" },
+    "verde":        { "hex": "#32A62F", "rgb": [50, 166, 47],   "cmyk": [78, 8, 100, 1],  "pantone": "7738 C",          "papel": "Dado positivo, crescimento, sucesso. EXCLUSIVAMENTE", "procedencia": "BB" }
+  },
+
+  "neutros": {
+    "procedencia": "CONV",
+    "nota": "O brandbook nao tem cinza nenhum. Extensao da paleta, nao parte dela. So para texto de apoio.",
+    "texto_sobre_escuro": "#CCCCCC",
+    "texto_sobre_claro": "#333333",
+    "assinatura_slide": "#B4B4B4",
+    "highlight_box": "#F0F6FF"
+  },
+
+  "degrade": {
+    "institucional": { "de": "#174277", "para": "#2D90F6", "procedencia": "BB" },
+    "pride": {
+      "procedencia": "BB",
+      "uso": "Somente campanhas LGBTQIA+ e mes do orgulho",
+      "angulo": -50,
+      "paradas": [
+        { "hex": "#ED2024", "pos": 0 },  { "hex": "#F78E1E", "pos": 20 },
+        { "hex": "#F7EC13", "pos": 40 }, { "hex": "#088F45", "pos": 60 },
+        { "hex": "#004DFF", "pos": 80 }, { "hex": "#760789", "pos": 100 }
+      ]
+    }
+  },
+
+  "tipografia": {
+    "oficial": "Gilroy",
+    "procedencia": "BB",
+    "nota": "Comercial e licenciada. O logo NAO depende dela: os vetores ja tem o wordmark em curvas.",
+    "escala": [
+      { "nivel": "display",   "peso": "Heavy",            "uso": "Headline enorme, estatistica de destaque" },
+      { "nivel": "titulo_1",  "peso": "Black/Extrabold",  "uso": "Titulo de slide, manchete" },
+      { "nivel": "titulo_2",  "peso": "Bold",             "uso": "Titulo de secao, nome de produto" },
+      { "nivel": "subtitulo", "peso": "Semibold",         "uso": "Subtitulo, label de categoria" },
+      { "nivel": "corpo_enfase","peso": "Medium",         "uso": "Texto corrido com enfase" },
+      { "nivel": "corpo",     "peso": "Regular",          "uso": "Texto corrido padrao" },
+      { "nivel": "corpo_leve","peso": "Light",            "uso": "Texto secundario, disclaimer" },
+      { "nivel": "minimo",    "peso": "UltraLight/Thin",  "uso": "Metadado, anotacao tecnica" }
+    ],
+    "fallback": {
+      "procedencia": "CONV",
+      "google_workspace": "Poppins",
+      "web_sem_licenca_webfont": "Outfit",
+      "render_por_codigo": "Outfit",
+      "nota": "Gilroy funciona em macOS, Windows, Adobe, Figma e Canva Pro. NAO funciona no Google Workspace, que so aceita Google Fonts. Licenca de webfont e comprada separado da de desktop."
+    }
+  },
+
+  "logo": {
+    "procedencia": "BB",
+    "cores_preferenciais": ["#231F20", "#FFFFFF"],
+    "area_de_protecao": "Tamanho do ponto final quadrado vezes 4, em todas as direcoes",
+    "reducao_minima": { "marca_px": 40, "marca_cm": 1.41, "simbolo_px": 18, "simbolo_cm": 0.64 },
+    "proibicoes": [
+      "Nunca usar como marca d'agua",
+      "Nao distorcer",
+      "Nao modificar a combinacao de cores",
+      "Nao modificar a proporcao",
+      "Nao usar efeitos visuais (sombra e afins)",
+      "Nao rotacionar (90, 180 graus etc.)"
+    ],
+    "cor_por_fundo": {
+      "procedencia": "CONV",
+      "#231F20": "#FFFFFF",
+      "#FFFFFF": "#231F20",
+      "#174277": "#FFFFFF",
+      "#0433F6": "#FFFFFF",
+      "imagem": "#FFFFFF"
+    }
+  },
+
+  "pattern": {
+    "procedencia": "BB",
+    "descricao": "Malha triangulada irregular, so contorno, escala uniforme. E o facetamento do icosaedro aberto no plano.",
+    "regra": "E um tile, nao um algoritmo. Nunca gere malha aleatoria.",
+    "tile": [356.71, 408.35],
+    "reticulado": [350.4, 299.7],
+    "versoes": {
+      "negativa": "Linha branca sobre #231F20. E a dominante da marca",
+      "positiva": "Linha preta sobre branco",
+      "sobre_imagem": "Malha clara sobre foto em P&B"
+    }
+  },
+
+  "copy": {
+    "procedencia": "CONV",
+    "proibido": ["travessao (—) em qualquer idioma"],
+    "estrutura": "Top-down: conclusao antes da evidencia",
+    "regra_de_claim": "Nenhum claim sem numero por tras",
+    "idiomas": ["pt-BR", "en", "fr"],
+    "tom": "Confianca tecnica, inovacao, acessibilidade profissional. Nunca hermetico, nunca arrogante.",
+    "hooks": [
+      "Seu conteudo existe. Os buscadores nao sabem.",
+      "SEO nao morreu. Evoluiu para GEO.",
+      "60%+ das buscas terminam sem clique. 83% das buscas com AI Overview sao zero-click."
+    ]
+  },
+
+  "inegociaveis": [
+    { "n": 1,  "procedencia": "ASSET", "regra": "Use o arquivo, nao recrie. Lockup, simbolo, sub-marcas e pattern existem em vetor. Vale igual para icone: busque antes de desenhar ou gerar. Icone nunca e gerado por IA." },
+    { "n": 2,  "procedencia": "BB",    "regra": "O simbolo e o icosaedro. Nunca as letras SX soltas. SX. existe, mas dentro do hexagono e so como reducao responsiva." },
+    { "n": 3,  "procedencia": "BB",    "regra": "Wordmark em minuscula com ponto: simplex., indexa., cerebro., distance., sir cache." },
+    { "n": 4,  "procedencia": "BB",    "regra": "Seis proibicoes sobre o logo: marca d'agua, distorcer, cor, proporcao, efeito, rotacao." },
+    { "n": 5,  "procedencia": "BB",    "regra": "Area de protecao: ponto final quadrado vezes 4. Reducao minima: 40px na marca, 18px no simbolo." },
+    { "n": 6,  "procedencia": "BB",    "regra": "Paleta fechada de 7 cores, mais a rampa neutra [CONV]." },
+    { "n": 7,  "procedencia": "BB",    "regra": "Tipografia e Gilroy. Fallback [CONV] so como paliativo: Outfit em render, Poppins no Google Workspace." },
+    { "n": 8,  "procedencia": "BB",    "regra": "Fundo negativo e o padrao. #231F20 com texto branco e acento #0433F6. Comece no escuro; o claro e excecao." },
+    { "n": 9,  "procedencia": "BB",    "regra": "O pattern e um tile, nao um algoritmo. Nunca gere malha aleatoria." },
+    { "n": 10, "procedencia": "CONV",  "regra": "Laranja #FF6C00 so em CTA, acao e alerta. Verde #32A62F so em dado positivo." },
+    { "n": 11, "procedencia": "CONV",  "regra": "Zero travessao em copy de entrega, em PT, EN ou FR. Estrutura top-down. Nenhum claim sem numero." },
+    { "n": 12, "procedencia": "CONV",  "regra": "@simplex.live em todos os slides de apresentacao. Regra de deck, nao de post. IndexNow nao e produto da Simplex." }
+  ],
+
+  "acessibilidade": {
+    "procedencia": "CONV",
+    "regra": "Status nunca so por cor. O verde e o laranja da marca tem delta-E 5,9 em protanopia: para quem tem essa condicao, sao a mesma cor. Sempre icone e rotulo junto."
+  },
+
+  "ativos": {
+    "base_publica": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/",
+    "logos": {
+      "simplex-lockup.svg":              "logos/simplex-lockup.svg",
+      "simplex-lockup-currentcolor.svg": "logos/simplex-lockup-currentcolor.svg",
+      "simbolo_simplex.svg":             "logos/simbolo_simplex.svg",
+      "simbolo_simplex_negativo.svg":    "logos/simbolo_simplex_negativo.svg",
+      "indexa.svg":                      "logos/indexa.svg",
+      "indexa-currentcolor.svg":         "logos/indexa-currentcolor.svg",
+      "sx.svg":                          "logos/sx.svg",
+      "sx-currentcolor.svg":             "logos/sx-currentcolor.svg",
+      "pattern-simplex.svg":             "logos/pattern-simplex.svg",
+      "pattern-simplex-arte.svg":        "logos/pattern-simplex-arte.svg"
+    },
+    "sob_demanda": {
+      "nota": "Ficam no repositorio privado Branding, em biblioteca/. Nao viajam no pacote da skill.",
+      "template_pptx":  "biblioteca/templates/Simplex-Template-Apresentacao.pptx",
+      "icones_png":     "biblioteca/templates/img/icones/",
+      "slides_js":      "biblioteca/apresentacoes/base.js",
+      "canvas":         "biblioteca/canvas/",
+      "figma":          "biblioteca/figma/"
+    }
+  }
+}

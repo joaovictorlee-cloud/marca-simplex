@@ -3,7 +3,8 @@
 Fonte pública da marca **Simplex Analytics** em formato legível por máquina.
 
 Um arquivo, `marca.json`, com paleta, tipografia, regras de logo, pattern, tom de voz e os
-12 inegociáveis. Mais os vetores oficiais em `logos/`.
+12 inegociáveis. Mais os vetores oficiais em `logos/` e os 24 ícones conceituais de
+SEO/GEO em `icones/` (ver `icones/README.md`).
 
 ## Consumir
 

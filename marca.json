@@ -1,6 +1,6 @@
 {
-  "versao": "2026.08.20",
-  "atualizado_em": "2026-08-20",
+  "versao": "2026.08.24",
+  "atualizado_em": "2026-08-24",
   "fonte": "brandbook-HQ.pdf (2021), 33 paginas, mais a pasta Ativos do Drive",
   "origem": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/marca.json",
   "procedencia": {
@@ -169,8 +169,39 @@
       "pattern-simplex.svg":             "logos/pattern-simplex.svg",
       "pattern-simplex-arte.svg":        "logos/pattern-simplex-arte.svg"
     },
+    "icones": {
+      "nota": "24 icones conceituais de SEO e GEO, grid 24x24, traco 1,75, so contorno, currentColor. Termos de busca pt/en em icones/sinonimos.json.",
+      "sprite":     "icones/sprite.svg",
+      "sinonimos":  "icones/sinonimos.json",
+      "arquivos": {
+        "busca.svg":             "icones/busca.svg",
+        "palavra-chave.svg":     "icones/palavra-chave.svg",
+        "ranking.svg":           "icones/ranking.svg",
+        "trafego-organico.svg":  "icones/trafego-organico.svg",
+        "backlink.svg":          "icones/backlink.svg",
+        "crawl.svg":             "icones/crawl.svg",
+        "indexacao.svg":         "icones/indexacao.svg",
+        "serp.svg":              "icones/serp.svg",
+        "pagina.svg":            "icones/pagina.svg",
+        "velocidade.svg":        "icones/velocidade.svg",
+        "dominio.svg":           "icones/dominio.svg",
+        "auditoria.svg":         "icones/auditoria.svg",
+        "sitemap.svg":           "icones/sitemap.svg",
+        "loja-fisica.svg":       "icones/loja-fisica.svg",
+        "catalogo.svg":          "icones/catalogo.svg",
+        "resposta-ia.svg":       "icones/resposta-ia.svg",
+        "citacao.svg":           "icones/citacao.svg",
+        "mencao-marca.svg":      "icones/mencao-marca.svg",
+        "share-of-voice.svg":    "icones/share-of-voice.svg",
+        "prompt.svg":            "icones/prompt.svg",
+        "zero-click.svg":        "icones/zero-click.svg",
+        "ai-overview.svg":       "icones/ai-overview.svg",
+        "modelo-llm.svg":        "icones/modelo-llm.svg",
+        "visibilidade-ia.svg":   "icones/visibilidade-ia.svg"
+      }
+    },
     "sob_demanda": {
-      "nota": "Ficam no repositorio privado Branding, em biblioteca/. Nao viajam no pacote da skill.",
+      "nota": "Ficam no repositorio privado Branding, em biblioteca/. Nao viajam no pacote da skill. Os 24 icones em SVG agora sao publicos em icones/; so a versao PNG para consumo do PPTX segue privada.",
       "template_pptx":  "biblioteca/templates/Simplex-Template-Apresentacao.pptx",
       "icones_png":     "biblioteca/templates/img/icones/",
       "slides_js":      "biblioteca/apresentacoes/base.js",

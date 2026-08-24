@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"
+     fill="none" stroke="currentColor" stroke-width="1.75"
+     stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="serp">
+  <title>serp</title>
+  <path d="M3 5 L21 5"/><path d="M3 5 L3 9 L21 9 L21 5"/><path d="M3 13 L15 13"/><path d="M3 17 L18 17"/><path d="M3 21 L13 21"/>
+</svg>

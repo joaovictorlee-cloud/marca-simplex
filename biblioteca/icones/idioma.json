@@ -1,0 +1,21 @@
+{
+  "id": "icones/idioma",
+  "tipo": "icone",
+  "titulo": "idioma",
+  "descricao": "Versões do site por idioma ou país.",
+  "tags": [
+    "hreflang",
+    "internacional",
+    "multilíngue",
+    "tradução",
+    "localization"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/idioma.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/idioma.svg",
+  "sprite": "icones/sprite.svg#sx-icon-idioma",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

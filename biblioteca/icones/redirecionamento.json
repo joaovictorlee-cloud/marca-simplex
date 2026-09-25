@@ -1,0 +1,21 @@
+{
+  "id": "icones/redirecionamento",
+  "tipo": "icone",
+  "titulo": "redirecionamento",
+  "descricao": "Redirecionamento de URL em migração ou troca de endereço.",
+  "tags": [
+    "redirect",
+    "301",
+    "302",
+    "migração",
+    "migration"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/redirecionamento.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/redirecionamento.svg",
+  "sprite": "icones/sprite.svg#sx-icon-redirecionamento",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

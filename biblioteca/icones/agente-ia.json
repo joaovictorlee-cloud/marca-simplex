@@ -1,0 +1,21 @@
+{
+  "id": "icones/agente-ia",
+  "tipo": "icone",
+  "titulo": "agente ia",
+  "descricao": "Agente de IA que executa tarefas sozinho.",
+  "tags": [
+    "ai agent",
+    "agente",
+    "agentic",
+    "assistente autônomo",
+    "execução"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/agente-ia.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/agente-ia.svg",
+  "sprite": "icones/sprite.svg#sx-icon-agente-ia",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

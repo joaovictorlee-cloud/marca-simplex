@@ -1,0 +1,21 @@
+{
+  "id": "icones/automacao",
+  "tipo": "icone",
+  "titulo": "automacao",
+  "descricao": "Rotina automatizada, que dispara sem ação manual.",
+  "tags": [
+    "automation",
+    "workflow",
+    "gatilho",
+    "trigger",
+    "rotina"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/automacao.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/automacao.svg",
+  "sprite": "icones/sprite.svg#sx-icon-automacao",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

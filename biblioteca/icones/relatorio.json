@@ -1,0 +1,21 @@
+{
+  "id": "icones/relatorio",
+  "tipo": "icone",
+  "titulo": "relatorio",
+  "descricao": "Relatório de resultado em documento.",
+  "tags": [
+    "report",
+    "relatório mensal",
+    "readout",
+    "resultado",
+    "entrega"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/relatorio.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/relatorio.svg",
+  "sprite": "icones/sprite.svg#sx-icon-relatorio",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

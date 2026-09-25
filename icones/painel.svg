@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"
+     fill="none" stroke="currentColor" stroke-width="1.75"
+     stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="painel">
+  <title>painel</title>
+  <rect x="2" y="3" width="20" height="18"/><path d="M2 8 L22 8"/><path d="M5 17 L9 12.5 L12.5 15 L19 11"/>
+</svg>

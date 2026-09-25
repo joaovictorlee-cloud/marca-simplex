@@ -1,0 +1,21 @@
+{
+  "id": "icones/confianca",
+  "tipo": "icone",
+  "titulo": "confianca",
+  "descricao": "Sinais de confiança e autoridade (E-E-A-T).",
+  "tags": [
+    "e-e-a-t",
+    "eeat",
+    "autoridade",
+    "trust",
+    "credibilidade"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/confianca.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/confianca.svg",
+  "sprite": "icones/sprite.svg#sx-icon-confianca",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "icones/avaliacao",
+  "tipo": "icone",
+  "titulo": "avaliacao",
+  "descricao": "Avaliação de cliente e nota média.",
+  "tags": [
+    "review",
+    "nota",
+    "estrelas",
+    "rating",
+    "reputação",
+    "prova social"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/avaliacao.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/avaliacao.svg",
+  "sprite": "icones/sprite.svg#sx-icon-avaliacao",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

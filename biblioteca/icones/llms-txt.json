@@ -1,0 +1,20 @@
+{
+  "id": "icones/llms-txt",
+  "tipo": "icone",
+  "titulo": "llms txt",
+  "descricao": "Arquivo e conteúdo preparados para leitura por modelos de IA.",
+  "tags": [
+    "llms.txt",
+    "conteúdo para ia",
+    "ai-ready",
+    "arquivo para modelos"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/llms-txt.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/llms-txt.svg",
+  "sprite": "icones/sprite.svg#sx-icon-llms-txt",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

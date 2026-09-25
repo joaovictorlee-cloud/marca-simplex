@@ -1,0 +1,20 @@
+{
+  "id": "icones/link-interno",
+  "tipo": "icone",
+  "titulo": "link interno",
+  "descricao": "Link que leva a outra página do mesmo site.",
+  "tags": [
+    "internal link",
+    "linkagem interna",
+    "interlinking",
+    "arquitetura de links"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/link-interno.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/link-interno.svg",
+  "sprite": "icones/sprite.svg#sx-icon-link-interno",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

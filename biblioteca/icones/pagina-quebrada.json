@@ -1,0 +1,22 @@
+{
+  "id": "icones/pagina-quebrada",
+  "tipo": "icone",
+  "titulo": "pagina quebrada",
+  "descricao": "Página com erro ou fora do ar.",
+  "tags": [
+    "404",
+    "erro",
+    "broken page",
+    "página não encontrada",
+    "soft 404",
+    "link quebrado"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/pagina-quebrada.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/pagina-quebrada.svg",
+  "sprite": "icones/sprite.svg#sx-icon-pagina-quebrada",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

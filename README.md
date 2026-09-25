@@ -23,6 +23,14 @@ M["tipografia"]["oficial"]        # "Gilroy"
 M["inegociaveis"]                 # as 12 regras que não se quebram
 ```
 
+<!-- biblioteca:inicio -->
+## Biblioteca visual
+
+Fundos, texturas, artes, referências de estilo e ícones aprovados, em `biblioteca/`,
+com procedência de cada peça. Índice legível por máquina: `biblioteca/indice.json`.
+Hoje: ícones 44.
+<!-- biblioteca:fim -->
+
 ## Procedência
 
 Cada regra vem marcada, e isso decide o que se pode discutir:

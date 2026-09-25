@@ -1,0 +1,22 @@
+{
+  "id": "icones/conversao",
+  "tipo": "icone",
+  "titulo": "conversao",
+  "descricao": "Funil e taxa de conversão.",
+  "tags": [
+    "funil",
+    "funnel",
+    "conversion",
+    "cro",
+    "lead",
+    "taxa de conversão"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/conversao.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/conversao.svg",
+  "sprite": "icones/sprite.svg#sx-icon-conversao",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

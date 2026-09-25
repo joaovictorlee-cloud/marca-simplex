@@ -1,0 +1,20 @@
+{
+  "id": "icones/video",
+  "tipo": "icone",
+  "titulo": "video",
+  "descricao": "Conteúdo em vídeo e SEO de vídeo.",
+  "tags": [
+    "vídeo",
+    "youtube",
+    "video seo",
+    "multimídia"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/video.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/video.svg",
+  "sprite": "icones/sprite.svg#sx-icon-video",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

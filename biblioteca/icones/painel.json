@@ -1,0 +1,21 @@
+{
+  "id": "icones/painel",
+  "tipo": "icone",
+  "titulo": "painel",
+  "descricao": "Painel de métricas acompanhado ao vivo.",
+  "tags": [
+    "dashboard",
+    "looker",
+    "métricas",
+    "monitoramento",
+    "painel de dados"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/painel.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/painel.svg",
+  "sprite": "icones/sprite.svg#sx-icon-painel",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

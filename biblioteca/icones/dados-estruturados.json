@@ -1,0 +1,22 @@
+{
+  "id": "icones/dados-estruturados",
+  "tipo": "icone",
+  "titulo": "dados estruturados",
+  "descricao": "Marcação de dados estruturados (schema.org, JSON-LD), a que gera resultado rico.",
+  "tags": [
+    "schema",
+    "schema.org",
+    "json-ld",
+    "structured data",
+    "rich results",
+    "markup"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/dados-estruturados.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/dados-estruturados.svg",
+  "sprite": "icones/sprite.svg#sx-icon-dados-estruturados",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

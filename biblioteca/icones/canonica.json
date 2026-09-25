@@ -1,0 +1,21 @@
+{
+  "id": "icones/canonica",
+  "tipo": "icone",
+  "titulo": "canonica",
+  "descricao": "A versão oficial entre páginas duplicadas.",
+  "tags": [
+    "canonical",
+    "url canônica",
+    "conteúdo duplicado",
+    "duplicate content",
+    "versão preferida"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/canonica.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/canonica.svg",
+  "sprite": "icones/sprite.svg#sx-icon-canonica",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "icones/mobile",
+  "tipo": "icone",
+  "titulo": "mobile",
+  "descricao": "Experiência e indexação no celular.",
+  "tags": [
+    "mobile-first",
+    "celular",
+    "smartphone",
+    "responsivo",
+    "app"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/mobile.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/mobile.svg",
+  "sprite": "icones/sprite.svg#sx-icon-mobile",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "icones/meta",
+  "tipo": "icone",
+  "titulo": "meta",
+  "descricao": "Meta ou KPI a atingir.",
+  "tags": [
+    "objetivo",
+    "goal",
+    "kpi",
+    "target",
+    "okr",
+    "alvo"
+  ],
+  "uso": "icone de conceito em slide, card, site e documento; herda currentColor",
+  "arquivo": "icones/meta.svg",
+  "url": "https://raw.githubusercontent.com/joaovictorlee-cloud/marca-simplex/main/icones/meta.svg",
+  "sprite": "icones/sprite.svg#sx-icon-meta",
+  "origem": "desenho vetorial",
+  "grade": "24x24, traco 1.75, contorno",
+  "aprovada_em": "2026-09-25",
+  "publicada_em": "2026-09-25"
+}
